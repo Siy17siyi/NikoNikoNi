@@ -5,5 +5,5 @@ DOMAIN,appleid.apple.com,DIRECT
 DOMAIN,appleid.cdn-apple.com,DIRECT
 DOMAIN,gsa.apple.com,DIRECT
 DOMAIN,idmsa.apple.com,DIRECT
-DOMAIN-SUFFIX, lcdn-locator.apple.com, DIRECT
-DOMAIN, identity.apple.com, DIRECT
+DOMAIN-SUFFIX,lcdn-locator.apple.com,DIRECT
+DOMAIN,identity.apple.com,DIRECT
