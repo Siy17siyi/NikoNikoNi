@@ -1,3 +1,4 @@
+IP-CIDR,17.57.145.132/32,DIRECT
 DOMAIN,appleid.apple.com,DIRECT
 DOMAIN,appleid.cdn-apple.com,DIRECT
 DOMAIN,gsa.apple.com,DIRECT
@@ -7,4 +8,3 @@ DOMAIN,identity.apple.com,DIRECT
 DOMAIN-SUFFIX,push.apple.com,DIRECT
 DOMAIN-SUFFIX,api.push.apple.com,DIRECT
 DOMAIN-SUFFIX,push-apple.com.akadns.net,DIRECT
-IP-CIDR,17.57.145.132/32,DIRECT
