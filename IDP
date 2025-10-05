@@ -5,6 +5,6 @@ DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN,identity.apple.com
-DOMAIN-SUFFIX,push.apple.com
-DOMAIN-SUFFIX,api.push.apple.com
-DOMAIN-SUFFIX,push-apple.com.akadns.net
+#DOMAIN-SUFFX,push.apple.com
+#DOMAIN-SUFFIX,api.push.apple.com
+#DOMAIN-SUFFIX,push-apple.com.akadns.net
