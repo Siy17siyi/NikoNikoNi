@@ -2,4 +2,4 @@ DOMAIN-SUFFIX,weather-analytics-events.apple.com,direct
 DOMAIN-SUFFIX,profile.gc.apple.com,direct
 DOMAIN-SUFFIX,rtlimages.apple.com,direct
 DOMAIN-SUFFIX,time.apple.com,direct
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com:443,direct
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,direct
